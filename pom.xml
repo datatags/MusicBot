@@ -84,7 +84,7 @@
         <dependency>
             <groupId>dev.lavalink.youtube</groupId>
             <artifactId>common</artifactId>
-            <version>42cc5a2042f31dba3fdc523618ef380a1a8bb79d-SNAPSHOT</version>
+            <version>951cdd582deae0430f9443e2fabc8261064cb44e-SNAPSHOT</version>
         </dependency>
 	<dependency>
 	    <groupId>com.github.jagrosh</groupId>
